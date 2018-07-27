@@ -1,2 +1,2 @@
 # 100DaysofML
-Challenge to code ML for 100 days
+I am taking up the challenge to to Learn Machine Learning at least an hour everyday!!
